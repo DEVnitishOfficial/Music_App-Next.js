@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 0,
+        "title": "Introduction to Music Theory",
+        "slug": "introduction-to-music-theory",
+        "description": "Learn the basics of music theory including notes, chords, scales, and rhythm.",
+        "price": 29.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "https://picsum.photos/200/300"
+      },
+      {
+        "id": 1,
+        "title": "Piano Mastery",
+        "slug": "piano-mastery",
+        "description": "Master the piano with comprehensive lessons covering technique, theory, and repertoire.",
+        "price": 49.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "https://picsum.photos/400/600"
+      },
+      {
+        "id": 2,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Start your guitar journey by learning essential chords, strumming patterns, and music fundamentals.",
+        "price": 39.99,
+        "instructor": "Michael Brown",
+        "isFeatured": false,
+        "image": "https://picsum.photos/800/1200"
+      },
+      {
+        "id": 3,
+        "title": "Music Production Essentials",
+        "slug": "music-production-essentials",
+        "description": "Learn the fundamentals of music production, including recording, mixing, and mastering.",
+        "price": 59.99,
+        "instructor": "Sophia Rodriguez",
+        "isFeatured": true,
+        "image": "https://picsum.photos/1920/1080"
+      },
+      {
+        "id": 4,
+        "title": "Singing Techniques Workshop",
+        "slug": "singing-techniques-workshop",
+        "description": "Discover and improve your singing voice with professional techniques and exercises.",
+        "price": 34.99,
+        "instructor": "Daniel White",
+        "isFeatured": false,
+        "image": "https://picsum.photos/1080/1920"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation Masterclass",
+        "slug": "jazz-improvisation-masterclass",
+        "description": "Unlock the secrets of jazz improvisation with advanced concepts and practical exercises.",
+        "price": 69.99,
+        "instructor": "Sarah Davis",
+        "isFeatured": true,
+        "image": "https://picsum.photos/800/800"
+      },
+      {
+        "id": 6,
+        "title": "Music History: From Baroque to Modern",
+        "slug": "music-history-baroque-to-modern",
+        "description": "Explore the rich history of music from the Baroque period to modern times.",
+        "price": 44.99,
+        "instructor": "Robert Thompson",
+        "isFeatured": false,
+        "image": "https://picsum.photos/1200/600"
+      },
+      {
+        "id": 7,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Dive into the world of electronic music production, from synthesis to beatmaking.",
+        "price": 49.99,
+        "instructor": "Amanda Green",
+        "isFeatured": true,
+        "image": "https://picsum.photos/600/1200"
+      },
+      {
+        "id": 8,
+        "title": "Songwriting Workshop",
+        "slug": "songwriting-workshop",
+        "description": "Learn the art and craft of songwriting, from lyric writing to melody composition.",
+        "price": 39.99,
+        "instructor": "James Lee",
+        "isFeatured": false,
+        "image": "https://picsum.photos/1000/500"
+      },
+      {
+        "id": 9,
+        "title": "Music Business Fundamentals",
+        "slug": "music-business-fundamentals",
+        "description": "Gain insights into the music industry, including marketing, copyright, and contracts.",
+        "price": 54.99,
+        "instructor": "Rachel Carter",
+        "isFeatured": true,
+        "image": "https://picsum.photos/500/1000"
+      }
+    ]
+  }
+  
