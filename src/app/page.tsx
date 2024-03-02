@@ -1,6 +1,7 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
 import StickyScroll from "@/components/ImplementStickyScroll";
+import Instructor from "@/components/Instructor";
 import TestimonialCard from "@/components/TestimonialCard";
 import UpcomingWebminar from "@/components/UpcomingWebminar";
 
@@ -13,6 +14,7 @@ export default function Home() {
     <StickyScroll />
     <TestimonialCard />
     <UpcomingWebminar />
+    <Instructor />
    </main>
   );
 }
